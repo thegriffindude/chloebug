@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Google",
+    "links": [
+      {
+        "label": "Youtube",
+        "value": "https://www.youtube.com"
+      },
+      {
+        "label": "Gmail",
+        "value": "https://mail.google.com/mail/u/0/#inbox"
+      },
+      {
+        "label": "Drive",
+        "value": "https://drive.google.com/drive/u/0/my-drive"
+      },
+      {
+        "label": "Photos",
+        "value": "https://photos.google.com/?tab=mq&pageId=none&pli=1"
+      },
+      {
+        "label": "Maps",
+        "value": "https://www.google.com/maps/@33.1154727,-86.7516932,15z?hl=en&authuser=0"
+      }
+    ]
+  },
+  {
+    "title": "Social",
+    "links": [
+      {
+        "label": "Messages",
+        "value": "https://messages.google.com/"
+      },
+      {
+        "label": "Pinterest",
+        "value": "https://pinterest.com/"
+      },
+      {
+        "label": "Facebook",
+        "value": "https://www.facebook.com/"
+      },
+      {
+        "label": "Reddit",
+        "value": "https://reddit.com/"
+      }
+    ]
+  },
+  {
+    "title": "Shopping",
+    "links": [
+      {
+        "label": "Amazon",
+        "value": "https://www.amazon.com"
+      },
+      {
+        "label": "Shein",
+        "value": "https://us.shein.com/"
+      },
+      {
+        "label": "PlaceHolder",
+        "value": "https://us.shein.com/"
+      },
+      {
+        "label": "PlaceHolder",
+        "value": "https://us.shein.com/"
+      },
+      {
+        "label": "PlaceHolder",
+        "value": "https://us.shein.com/"
+      }
+    ]
+  },
+  {
+    "title": "If Lee Dies",
+    "links": [
+      {
+        "label": "Mortgage",
+        "value": "https://uwm2.loanadministration.com/uwm/#/login"
+      },
+      {
+        "label": "Internet",
+        "value": "https://signin.att.com"
+      },
+      {
+        "label": "Power",
+        "value": "https://customerservice2.southerncompany.com/Billing/Home"
+      },
+      {
+        "label": "Water",
+        "value": "https://www.municipalonlinepayments.com/caleraal/utilities"
+      },
+      {
+        "label": "Avadian Banking",
+        "value": "https://secure.avadiancu.com/avadiancu/uux.aspx#/landingPage"
+      },
+      {
+        "label": "Discover Credit",
+        "value": "https://www.discover.com/"
+      },
+      {
+        "label": "Google Credit",
+        "value": "https://google.syf.com/login/"
+      },
+      {
+        "label": "Amazon Credit",
+        "value": "https://amazon.syf.com/login/"
+      },
+      {
+        "label": "Links",
+        "value": "https://amazon.syf.com/login/"
+      }
+    ]
+  }
+]
